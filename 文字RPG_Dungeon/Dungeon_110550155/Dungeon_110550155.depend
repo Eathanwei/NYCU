@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650614496 source:c:\users\user\downloads\dungeon_110550155\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+
